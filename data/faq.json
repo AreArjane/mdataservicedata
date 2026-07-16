@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "0001",
+    "language": "nb",
+    "question": "PC-en er treg. Hva kan jeg gjøre?",
+    "answer": "Klikk på «Start på nytt». En omstart avslutter unødvendige prosesser og kan gjøre PC-en raskere.",
+    "category": "PC-hjelp",
+    "tags": [
+      "treg PC",
+      "omstart"
+    ],
+    "sortOrder": 1,
+    "status": "published",
+    "revision": 2,
+    "createdAt": "2026-07-16T03:10:43.877135+02:00",
+    "updatedAt": "2026-07-16T03:10:50.112907+02:00",
+    "contentHash": "e17da07de26f919ec43add3388a072ebcbc39116582db68153098e5f2c5310e7"
+  }
+]
